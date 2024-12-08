@@ -15,17 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Connect with me:
+ <!--#### Connect with me: -->
+ <br/>
+ 
 <a href="https://www.linkedin.com/in/ichsanulalifwan/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ichsanulalifwan" height="30" width="40" />
+  <img align="center" src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" height="32" width="32" />
 </a>
+&nbsp;
+<a href="https://play.google.com/store/apps/dev?id=7106149481907014202&hl=id" target="blank">
+  <img align="center" src="https://cdn.simpleicons.org/googleplay/black/white" alt="Google Play Store" height="32" width="32" />
+</a>
+&nbsp;
 <a href="https://github.com/ichsanulalifwan" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="ichsanulalifwan" height="30" width="40">
+    <img align="center" src="https://cdn.simpleicons.org/github/black/white" alt="GitHub" height="32" width="32">
 </a>
-<a href="https://www.instagram.com/ichsanulalifwan/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ichsanulalifwan" height="30" width="40" />
-</a>
+&nbsp;
+<!-- <a href="" target="_blank">
+    <img align="center" src="https://cdn.simpleicons.org/androidstudio" alt="Android Project" height="32" width="32">
+</a> -->
 
+<br/>
 <br/>
 <br/>
 
